@@ -1,0 +1,8 @@
+quarkus:
+  langchain4j:
+    vertexai:
+      gemini:
+        enabled: true
+        location: us-central1
+        project-id: gen-lang-client-0387603682
+        model: gemini-1.5-flash
